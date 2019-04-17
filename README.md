@@ -1,3 +1,4 @@
-# Face-Detection
+# MathLab Works
 
-opencv face recognition using python
+1.Face Detection                                                                                                                           
+2.Edge Detection
